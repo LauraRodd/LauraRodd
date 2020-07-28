@@ -4,7 +4,7 @@ I'm a self-taught Front-End Developer who is passionate about creating intuitive
 
 Curious in knowing more or want to get in touch? Find me on the web 🌎:
 
-- CodePen 🎨
-- LinkedIn 💼
-- Twitter ✏
+- [CodePen](https://codepen.io/laura-rodd) 🎨
+- [LinkedIn](https://www.linkedin.com/in/laura-rodd/) 💼
+- [Twitter](https://twitter.com/home) ✏
 
