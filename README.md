@@ -6,5 +6,5 @@ Curious in knowing more or want to get in touch? Find me on the web 🌎:
 
 - [CodePen](https://codepen.io/laura-rodd) 🎨
 - [LinkedIn](https://www.linkedin.com/in/laura-rodd/) 💼
-- [Twitter](https://twitter.com/home) ✏
+- [Twitter](https://twitter.com/missrodd) ✏
 
