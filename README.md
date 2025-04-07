@@ -1,18 +1,26 @@
 # Hi, I'm Laura 🙋🏽‍♀️
 
-As a self-taught Web Developer and UX Specialist, I thrive on crafting seamless user experiences and leveraging technology to drive business growth. My journey began with a curiosity for the inner workings of the digital realm, leading me to master the art of translating complex ideas into elegant solutions.
+I'm a Content Designer, UX Writer, and UX-minded Web Specialist with a passion for creating clear, useful, and accessible digital experiences.
 
-My expertise extends beyond web development; I'm deeply engrossed in the realm of data analysis and technical writing/documentation. I find joy in deciphering data patterns and distilling them into actionable insights that empower businesses to make informed decisions.
+I focus on shaping intuitive content systems and user-centered design solutions that make complex products easier to understand and use. With a background that blends content strategy, technical writing, and web development, I love bridging the gap between people and technology—whether that’s through clean UI copy, scalable content ops, or thoughtful information architecture.
 
-Whether it's architecting responsive websites, building robust web applications, or delving into the intricacies of data analysis, I'm relentless in my pursuit of excellence. My passion lies in harnessing the power of technology to not only solve problems but also to streamline processes and drive innovation.
+💡 My work spans:
 
-When I'm not immersed in code or analyzing data, you'll often find me honing my skills in technical writing, meticulously documenting processes and methodologies. Additionally, I'm embarking on a journey to share my experiences through my upcoming travel blog, where I'll blend storytelling with technical insights to captivate readers.
+✍️ UX Writing & Content Design
 
-In essence, I am a versatile professional with a keen eye for detail, a passion for innovation, and an unwavering commitment to driving business success through technology and effective communication.
+🧠 Content Strategy & Governance
 
-Curious in knowing more or want to get in touch? Find me on the web 🌎:
+🌐 Web & CMS Management
 
-- [CodePen](https://codepen.io/laura-rodd) 🎨
-- [LinkedIn](https://www.linkedin.com/in/laura-rodd/) 💼
-- [Twitter](https://twitter.com/missrodd) ✏
+📘 Technical Writing & Documentation
+
+🧰 Figma, Adobe Suite, Markdown, Git, and modern CMS tools
+
+💻 Web Development (HTML, CSS, JS basics)
+
+I'm also a lifelong learner who enjoys simplifying technical concepts, building documentation frameworks, and collaborating with cross-functional teams to improve digital products.
+
+Currently, I'm diving deeper into AI-assisted content creation, exploring how automation and prompt engineering can streamline UX writing and content ops. I'm always learning—whether it's a new tool, design system, or ways to make content more inclusive and accessible.
+
+Let’s connect if you’re into content, UX, or just curious about making the web a more human place.
 
