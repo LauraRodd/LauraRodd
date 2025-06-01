@@ -14,7 +14,7 @@ I focus on shaping intuitive content systems and user-centered design solutions 
 
 📘 Technical Writing & Documentation
 
-🧰 Figma, Adobe Suite, Markdown, Git, and modern CMS tools
+🧰 Figma, Adobe Creative Suite
 
 💻 Web Development (HTML, CSS, JS basics)
 
