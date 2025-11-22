@@ -1,6 +1,6 @@
 # Hi, I'm Laura 🙋🏽‍♀️
 
-I'm a Content Designer, UX Writer, and UX-minded Web Specialist with a passion for creating clear, useful, and accessible digital experiences.
+I'm a Content Designer, Process Builder, UX Writer, and UX-minded Digital Specialist with a passion for creating clear, useful, and accessible digital experiences.
 
 I focus on shaping intuitive content systems and user-centered design solutions that make complex products easier to understand and use. With a background that blends content strategy, technical writing, and web development, I love bridging the gap between people and technology—whether that’s through clean UI copy, scalable content ops, or thoughtful information architecture.
 
@@ -10,7 +10,7 @@ I focus on shaping intuitive content systems and user-centered design solutions 
 
 🧠 Content Strategy & Governance
 
-🌐 Web & CMS Management
+🌐 Automation
 
 📘 Technical Writing & Documentation
 
